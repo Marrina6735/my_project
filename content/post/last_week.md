@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Last week"
+title: "Last week 25.04-01.05"
 subtitle: "How was I last week?"
 summary: "I had a productive weekend, namely."
 authors: [Konyaeva M. I.]
